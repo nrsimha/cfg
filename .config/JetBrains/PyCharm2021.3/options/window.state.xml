@@ -1,0 +1,37 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080" width="1354" height="358" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080" width="1354" height="358" />
+  </component>
+  <component name="WindowManager">
+    <frame x="0" y="0" width="1920" height="1035" extendedState="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+    </layout>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="914" y="302" key="FileChooserDialogImpl" timestamp="1633965605302">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="914" y="302" key="FileChooserDialogImpl/0.0.1920.1035" timestamp="1633965605302" />
+    <state x="628" y="180" key="SettingsEditor" timestamp="1633444382231">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state x="628" y="180" key="SettingsEditor/0.0.1920.1035" timestamp="1633444382231" />
+    <state width="467" height="102" key="ShowUsagesActions.dimensionServiceKey" timestamp="1634313976119">
+      <screen x="0" y="0" width="1920" height="1035" />
+    </state>
+    <state width="467" height="102" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1035" timestamp="1634313976119" />
+  </component>
+</application>
