@@ -1,0 +1,238 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxlbGFzdGljc2VhcmNoXD4=</entry>
+        <entry encoding="base64">dHJhbnNsYXRpb25fa2V5</entry>
+        <entry encoding="base64">TUVESUE=</entry>
+        <entry encoding="base64">YWxsb3c=</entry>
+        <entry encoding="base64">XDxFU19BVVRIXD4=</entry>
+        <entry encoding="base64">XDxFU19VU0VfU1NMXD4=</entry>
+        <entry encoding="base64">XDxFU19IT1NUXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">ODU=</entry>
+        <entry encoding="base64">eA==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/transcripts/management/commands/import_transcripts.py" timestamp="1633970829918">
+        <mark key="'" line="193" column="28" />
+        <mark key="[" line="193" column="65" />
+        <mark key="]" line="193" column="65" />
+        <mark key="." line="193" column="65" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1634028830700">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/requirements.new" timestamp="1634035099970">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+        <mark key="." line="15" column="6" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/dev.py" timestamp="1634036362870">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/theme/templates/_footer.html" timestamp="1633974617727">
+        <mark key="[" line="11" column="36" />
+        <mark key="]" line="11" column="36" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="36" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/templatetags/get_languages.py" timestamp="1633970972715">
+        <mark key="'" line="45" column="22" />
+        <mark key="[" line="45" column="45" />
+        <mark key="." line="45" column="47" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/references.py" timestamp="1633970947980">
+        <mark key="'" line="29" column="44" />
+        <mark key="[" line="29" column="41" />
+        <mark key="." line="29" column="43" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/find_issues_with_pages.py" timestamp="1633970685674">
+        <mark key="'" line="22" column="48" />
+        <mark key="[" line="18" column="62" />
+        <mark key="]" line="18" column="62" />
+        <mark key="^" line="18" column="62" />
+        <mark key="." line="18" column="62" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" timestamp="1633970745263">
+        <mark key="'" line="229" column="57" />
+        <mark key="[" line="229" column="27" />
+        <mark key="]" line="160" column="23" />
+        <mark key="." line="229" column="29" />
+        <mark key="^" line="160" column="23" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/wsgi.py" timestamp="1634410845165">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/management/commands/insert_devanagari.py" timestamp="1633970917774">
+        <mark key="'" line="102" column="23" />
+        <mark key="[" line="102" column="20" />
+        <mark key="." line="102" column="22" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" timestamp="1634987262149">
+        <mark key="'" line="882" column="25" />
+        <mark key="[" line="422" column="0" />
+        <mark key="]" line="422" column="47" />
+        <mark key="." line="419" column="6" />
+      </file>
+      <file name="/" timestamp="1634037853021">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/requirements.txt" timestamp="1634412443575">
+        <mark key="[" line="28" column="12" />
+        <mark key="]" line="29" column="9" />
+        <mark key="^" line="29" column="9" />
+        <mark key="." line="29" column="8" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/migrations/0003_auto_20210714_0915.py" timestamp="1634028879864">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/transcripts/models.py" timestamp="1634410771721">
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/letters/management/commands/import_letters.py" timestamp="1633970870577">
+        <mark key="'" line="150" column="56" />
+        <mark key="[" line="150" column="53" />
+        <mark key="]" line="126" column="27" />
+        <mark key="^" line="126" column="27" />
+        <mark key="." line="150" column="55" />
+      </file>
+      <file name="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/models.py" timestamp="1633970898365">
+        <mark key="'" line="62" column="36" />
+        <mark key="[" line="62" column="57" />
+        <mark key="." line="62" column="59" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="25" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/requirements.old" />
+      <jump line="194" column="4" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="167" column="33" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="70" column="27" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="73" column="7" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="94" column="16" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="126" column="39" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="141" column="39" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="151" column="39" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="166" column="56" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/find_issues_with_pages.py" />
+      <jump line="18" column="86" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/find_issues_with_pages.py" />
+      <jump line="21" column="113" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/find_issues_with_pages.py" />
+      <jump line="22" column="48" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/find_issues_with_pages.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="160" column="48" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="169" column="130" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="176" column="61" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="212" column="53" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="213" column="81" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="229" column="57" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/import_json/management/commands/import_json.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/transcripts/management/commands/import_transcripts.py" />
+      <jump line="231" column="60" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/transcripts/management/commands/import_transcripts.py" />
+      <jump line="193" column="28" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/transcripts/management/commands/import_transcripts.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/letters/management/commands/import_letters.py" />
+      <jump line="126" column="57" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/letters/management/commands/import_letters.py" />
+      <jump line="150" column="56" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/letters/management/commands/import_letters.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/models.py" />
+      <jump line="62" column="36" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/models.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/management/commands/insert_devanagari.py" />
+      <jump line="102" column="23" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/management/commands/insert_devanagari.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/references.py" />
+      <jump line="29" column="44" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/records/references.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/templatetags/get_languages.py" />
+      <jump line="45" column="22" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/wagtail_page_translation/templatetags/get_languages.py" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="340" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="23" column="35" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/theme/templates/_footer.html" />
+      <jump line="10" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/requirements.new" />
+      <jump line="0" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/requirements.new" />
+      <jump line="882" column="40" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="418" column="0" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="416" column="26" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="879" column="30" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="417" column="29" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+      <jump line="877" column="25" filename="$USER_HOME$/projects/vedabase_wagtail/vedabase/vedabase/settings/base.py" />
+    </jumps>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">RVNfVVNFX1NTTCA9IG9zLmVudmlyb24uZ2V0KCdFU19VU0VfU1NMJywgVHJ1ZSkK</text>
+      </register>
+      <register name="+" type="2">
+        <text encoding="base64">RVNfVVNFX1NTTCA9IG9zLmVudmlyb24uZ2V0KCdFU19VU0VfU1NMJywgVHJ1ZSkK</text>
+      </register>
+      <register name="-" type="4">
+        <text encoding="base64">SA==</text>
+      </register>
+      <register name="." type="4">
+        <text encoding="base64">ZWxzZTpFU19BVVRIID0gIiI=</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxFU19IT1NUXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">b3MuZW52aXJvbi5nZXQoJ0VTX1VTRV9TU0wnLCBUcnVlKQ==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEVTX0FVVEggPSAiIgo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZWxzZToK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">RVNfQVVUSCA9ICIiCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHdYeHNqdXNKNmsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGh0dHBzOiAvLyB3d3cueW91dHViZS5jb20gLyB3YXRjaD92ID0gOQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGh0dHBzOiAvLyB3d3cueW91dHViZS5jb20gLyB3YXRjaD92ID0gOQogICAgd1h4c2p1c0o2awo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">RVNfQVVUSCA9ICIiCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aHR0cHM6Ly93d3cueW91dHViZS5jb20vd2F0Y2g/dj05d1h4c2p1c0o2awo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">RVNfQVVUSCA9IG9zLmVudmlyb25bJ0VTX0FVVEgnXS5zcGxpdCgpCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-search encoding="base64">XDxFU19IT1NUXD4=</last-search>
+      <last-pattern encoding="base64">XDxFU19IT1NUXD4=</last-pattern>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+</application>
