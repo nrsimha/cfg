@@ -1,4 +1,25 @@
 <application>
+  <component name="DynamicPluginEnabler">
+    <trackers>
+      <map>
+        <entry key="1pfKslnOjsk2PFIjGftXZEY7EP0">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1z5ibFv01cqxwLBXB0A7MomA8y2">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+        <entry key="1zwswztz42mqwXhd5HLrA3rL1FL">
+          <value>
+            <ProjectPluginTracker />
+          </value>
+        </entry>
+      </map>
+    </trackers>
+  </component>
   <component name="LangManager">
     <option name="languageName" value="Python" />
     <languageToProjectMap>
@@ -40,6 +61,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="FindSplitterProportion" value="0.21696253" />
     <property name="IdeErrorsDialog.LAST_OK_ACTION" value="REPORT_AND_CLEAR_ALL" />
     <property name="InstalledPluginsSearchHistory" value="shortcut&#10;shortcu&#10;short&#10;shor&#10;sh" />
     <property name="MarketplacePluginsSearchHistory" value="elastic&#10;elasti&#10;elas&#10;/tag:theme material&#10;/tag:theme aterial" />
@@ -54,33 +76,32 @@
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="SettingsSearchHistory" value="font&#10;shortcut&#10;theme&#10;comma" />
-    <property name="appcds.runOnSecondStart" value="PY-213.4631.9-5e32aadbb2e9c327b78115c19e68bc35ee1df3456721ce433af7cb2c3f531a6c" />
+    <property name="appcds.runOnSecondStart" value="PY-213.5281.17-971c91f4074a0dabfa8c5a89966ba82c97a3789639761609674bc219544556dc" />
     <property name="ask.about.ctrl.y.shortcut.v2" value="true" />
     <property name="evlsprt3.PY-213.3714.452" value="3" />
     <property name="evlsprt3.PY-213.4631.9" value="5" />
+    <property name="evlsprt3.PY-213.5281.17" value="7" />
     <property name="exception.accepted.notices" value="182193a2" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/vedabase_wagtail&#10;/home/nrsimha/projects/prabhupadavani/prabhupadavani" />
-    <property name="file.gist.reindex.count" value="4632" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/projects/hps_blog&#10;/home/nrsimha/projects/vedabase_wagtail&#10;/home/nrsimha/projects/prabhupadavani/prabhupadavani" />
+    <property name="file.gist.reindex.count" value="4649" />
     <property name="fileTypeChangedCounter" value="32" />
     <property name="fileTypeDetectors" value="com.intellij.database.vfs.DbStorageFileType$Detector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:com.intellij.javascript.debugger.sourcemap.SourceMapFileType$MyFileTypeDetector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
+    <property name="find.popup.splitter" value="0.33333334" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="gotit.previous.run" value="PY-213.4631.9" />
     <property name="ide.memory.adjusted" value="true" />
     <property name="ide.updates.previous.build.number" value="PY-213.3714.452" />
-    <property name="ideavim.statistics.timestamp" value="1634986266442" />
+    <property name="ideavim.statistics.timestamp" value="1635403653776" />
     <property name="ift.learning.panel.opened.in" value="213.3714.452" />
     <property name="input.method.disabler.muted" value="true" />
     <property name="last_opened_file_path" value="$USER_HOME$/projects/vedabase_wagtail" />
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
-    <property name="registry.to.advanced.settings.migration.build" value="PY-213.4631.9" />
-    <property name="stats.collector.latest.sending.timestamp" value="1634987086249" />
-    <property name="stats.collector.today.sent.data.size" value="94772" />
+    <property name="registry.to.advanced.settings.migration.build" value="PY-213.5281.17" />
+    <property name="stats.collector.latest.sending.timestamp" value="1635313671799" />
+    <property name="stats.collector.today.sent.data.size" value="29304" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
     <property name="ts.lib.d.ts.version" value="4.3.5" />
-  </component>
-  <component name="ToolbarSettingsService">
-    <option name="NEW_TOOLBAR_SETTINGS" value="OLD_NAVBAR" />
   </component>
 </application>
