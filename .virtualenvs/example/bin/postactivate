@@ -1,0 +1,13 @@
+#!/bin/bash
+
+export DJANGO_SETTINGS_MODULE="PROJECT_NAME.settings.dev"
+export DJANGO_SECRET_KEY="DJANGO_SECRET"
+export DATABASE_URL="postgres://user:password@localhost/DATABASE_NAME"
+export ELASTICSEARCH_SERVER="http://localhost:9200/"
+export ELASTICSEARCH_INDEX_NAME="INDEX_NAME"
+
+export ALLOWED_HOSTS="localhost 127.0.0.1"
+export GOOGLE_ANALYTICS="UA-xxxxxx-xx"
+export SENDGRID_API_KEY="SENDGRID_KEY"
+export DJANGO_REDIS_LOCATION="redis://127.0.0.1:6379/0"
+export DEBUG="True"

@@ -32,3 +32,14 @@ Install config tracking in your $HOME by running:
 Add alias for git command:
 
     alias config='/usr/bin/git --git-dir=$HOME/.cfg/ --work-tree=$HOME'
+
+## Others
+
+### Virtualenv
+
+Virtualenv is used for Python projects. Django uses variable which are set in postactivate file. In .virtualenvs/example/postactivate there 
+is example file which can be used for all new projects.
+
+In project's settings file we can access those variable like this:
+    GOOGLE_ANALYTICS = os.environ.get('GOOGLE_ANALYTICS', None)
+ 
